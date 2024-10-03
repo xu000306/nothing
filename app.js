@@ -1,5 +1,5 @@
 const app = {
-
+one:1,
   init: () => {
     console.log("app running");
   },
